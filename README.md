@@ -1,7 +1,6 @@
 # xlz
 
-##使用方法
-搭配xlz spring boot使用更佳
+使用方法：搭配xlz spring boot使用更佳
 
 ## Project setup 
 ```
