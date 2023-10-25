@@ -1,6 +1,9 @@
 # xlz
 
-## Project setup
+##使用方法
+搭配xlz spring boot使用更佳
+
+## Project setup 
 ```
 npm install
 ```
@@ -18,4 +21,3 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/). 
 
-搭配xlz spring boot使用更佳
